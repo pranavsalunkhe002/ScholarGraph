@@ -1,0 +1,62 @@
+from pathlib import Path
+import sys
+import pandas as pd
+
+
+# Add project root to Python path
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(PROJECT_ROOT))
+
+
+def test_relationship_output_exists():
+
+    output_path = (
+        PROJECT_ROOT
+        / "data"
+        / "processed"
+        / "relationships.csv"
+    )
+
+    assert output_path.exists(), (
+        "Relationship extraction output file was not found."
+    )
+
+
+def test_relationship_output_not_empty():
+
+    output_path = (
+        PROJECT_ROOT
+        / "data"
+        / "processed"
+        / "relationships.csv"
+    )
+
+    df = pd.read_csv(output_path)
+
+    assert len(df) > 0, (
+        "Relationship extraction output is empty."
+    )
+
+
+def test_required_relationship_columns():
+
+    output_path = (
+        PROJECT_ROOT
+        / "data"
+        / "processed"
+        / "relationships.csv"
+    )
+
+    df = pd.read_csv(output_path)
+
+    required_columns = {
+        "source",
+        "relationship",
+        "target"
+    }
+
+    assert required_columns.issubset(
+        set(df.columns)
+    ), (
+        "Required relationship columns are missing."
+    )
