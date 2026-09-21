@@ -1,0 +1,51 @@
+source,source_type,relationship,target,target_type,paper_id
+John Smith,RESEARCHER,AUTHORED,Deep Learning for Medical Image Analysis,PAPER,P001
+Alice Brown,RESEARCHER,AUTHORED,Deep Learning for Medical Image Analysis,PAPER,P001
+Deep Learning for Medical Image Analysis,PAPER,ABOUT,Deep Learning,TOPIC,P001
+Deep Learning for Medical Image Analysis,PAPER,ABOUT,Medical Imaging,TOPIC,P001
+Deep Learning for Medical Image Analysis,PAPER,ABOUT,Computer Vision,TOPIC,P001
+David Lee,RESEARCHER,AUTHORED,Graph Neural Networks for Social Network Analysis,PAPER,P002
+Maria Garcia,RESEARCHER,AUTHORED,Graph Neural Networks for Social Network Analysis,PAPER,P002
+Graph Neural Networks for Social Network Analysis,PAPER,ABOUT,Graph Neural Networks,TOPIC,P002
+Graph Neural Networks for Social Network Analysis,PAPER,ABOUT,Social Networks,TOPIC,P002
+Graph Neural Networks for Social Network Analysis,PAPER,ABOUT,Machine Learning,TOPIC,P002
+Robert Wilson,RESEARCHER,AUTHORED,Natural Language Processing for Research Papers,PAPER,P003
+Alice Brown,RESEARCHER,AUTHORED,Natural Language Processing for Research Papers,PAPER,P003
+Natural Language Processing for Research Papers,PAPER,ABOUT,Natural Language Processing,TOPIC,P003
+Natural Language Processing for Research Papers,PAPER,ABOUT,Information Extraction,TOPIC,P003
+Natural Language Processing for Research Papers,PAPER,ABOUT,Artificial Intelligence,TOPIC,P003
+Maria Garcia,RESEARCHER,AUTHORED,Knowledge Graphs for Scientific Research,PAPER,P004
+John Smith,RESEARCHER,AUTHORED,Knowledge Graphs for Scientific Research,PAPER,P004
+Knowledge Graphs for Scientific Research,PAPER,ABOUT,Knowledge Graphs,TOPIC,P004
+Knowledge Graphs for Scientific Research,PAPER,ABOUT,Research Discovery,TOPIC,P004
+Knowledge Graphs for Scientific Research,PAPER,ABOUT,Artificial Intelligence,TOPIC,P004
+David Lee,RESEARCHER,AUTHORED,Transformer Models for Text Classification,PAPER,P005
+Robert Wilson,RESEARCHER,AUTHORED,Transformer Models for Text Classification,PAPER,P005
+Transformer Models for Text Classification,PAPER,ABOUT,Transformers,TOPIC,P005
+Transformer Models for Text Classification,PAPER,ABOUT,Natural Language Processing,TOPIC,P005
+Transformer Models for Text Classification,PAPER,ABOUT,Deep Learning,TOPIC,P005
+Alice Brown,RESEARCHER,AUTHORED,Recommendation Systems for Researchers,PAPER,P006
+Maria Garcia,RESEARCHER,AUTHORED,Recommendation Systems for Researchers,PAPER,P006
+Recommendation Systems for Researchers,PAPER,ABOUT,Recommendation Systems,TOPIC,P006
+Recommendation Systems for Researchers,PAPER,ABOUT,Research Discovery,TOPIC,P006
+Recommendation Systems for Researchers,PAPER,ABOUT,Machine Learning,TOPIC,P006
+John Smith,RESEARCHER,AUTHORED,GraphRAG for Scientific Question Answering,PAPER,P007
+Robert Wilson,RESEARCHER,AUTHORED,GraphRAG for Scientific Question Answering,PAPER,P007
+GraphRAG for Scientific Question Answering,PAPER,ABOUT,GraphRAG,TOPIC,P007
+GraphRAG for Scientific Question Answering,PAPER,ABOUT,Knowledge Graphs,TOPIC,P007
+GraphRAG for Scientific Question Answering,PAPER,ABOUT,Large Language Models,TOPIC,P007
+Maria Garcia,RESEARCHER,AUTHORED,Vector Search for Academic Documents,PAPER,P008
+David Lee,RESEARCHER,AUTHORED,Vector Search for Academic Documents,PAPER,P008
+Vector Search for Academic Documents,PAPER,ABOUT,Vector Retrieval,TOPIC,P008
+Vector Search for Academic Documents,PAPER,ABOUT,Embeddings,TOPIC,P008
+Vector Search for Academic Documents,PAPER,ABOUT,Information Retrieval,TOPIC,P008
+Robert Wilson,RESEARCHER,AUTHORED,AI Based Patent Analysis,PAPER,P009
+Alice Brown,RESEARCHER,AUTHORED,AI Based Patent Analysis,PAPER,P009
+AI Based Patent Analysis,PAPER,ABOUT,Artificial Intelligence,TOPIC,P009
+AI Based Patent Analysis,PAPER,ABOUT,Patent Analysis,TOPIC,P009
+AI Based Patent Analysis,PAPER,ABOUT,Knowledge Graphs,TOPIC,P009
+John Smith,RESEARCHER,AUTHORED,Research Collaboration Networks,PAPER,P010
+Maria Garcia,RESEARCHER,AUTHORED,Research Collaboration Networks,PAPER,P010
+Research Collaboration Networks,PAPER,ABOUT,Research Networks,TOPIC,P010
+Research Collaboration Networks,PAPER,ABOUT,Graph Algorithms,TOPIC,P010
+Research Collaboration Networks,PAPER,ABOUT,Recommendation Systems,TOPIC,P010

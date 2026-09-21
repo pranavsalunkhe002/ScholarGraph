@@ -1,0 +1,68 @@
+paper_id,entity,entity_type,source
+P001,Deep Learning for Medical Image Analysis,PAPER,dataset
+P001,John Smith,RESEARCHER,dataset
+P001,Alice Brown,RESEARCHER,dataset
+P001,Deep Learning,TOPIC,dataset
+P001,Medical Imaging,TOPIC,dataset
+P001,Computer Vision,TOPIC,dataset
+P001,Deep Learning,PERSON,spacy
+P002,Graph Neural Networks for Social Network Analysis,PAPER,dataset
+P002,David Lee,RESEARCHER,dataset
+P002,Maria Garcia,RESEARCHER,dataset
+P002,Graph Neural Networks,TOPIC,dataset
+P002,Social Networks,TOPIC,dataset
+P002,Machine Learning,TOPIC,dataset
+P002,Graph Neural Networks for Social Network Analysis,ORG,spacy
+P003,Natural Language Processing for Research Papers,PAPER,dataset
+P003,Robert Wilson,RESEARCHER,dataset
+P003,Alice Brown,RESEARCHER,dataset
+P003,Natural Language Processing,TOPIC,dataset
+P003,Information Extraction,TOPIC,dataset
+P003,Artificial Intelligence,TOPIC,dataset
+P004,Knowledge Graphs for Scientific Research,PAPER,dataset
+P004,Maria Garcia,RESEARCHER,dataset
+P004,John Smith,RESEARCHER,dataset
+P004,Knowledge Graphs,TOPIC,dataset
+P004,Research Discovery,TOPIC,dataset
+P004,Artificial Intelligence,TOPIC,dataset
+P004,Knowledge Graphs,PERSON,spacy
+P004,Scientific Research,ORG,spacy
+P005,Transformer Models for Text Classification,PAPER,dataset
+P005,David Lee,RESEARCHER,dataset
+P005,Robert Wilson,RESEARCHER,dataset
+P005,Transformers,TOPIC,dataset
+P005,Natural Language Processing,TOPIC,dataset
+P005,Deep Learning,TOPIC,dataset
+P005,Transformer Models for Text Classification,ORG,spacy
+P006,Recommendation Systems for Researchers,PAPER,dataset
+P006,Alice Brown,RESEARCHER,dataset
+P006,Maria Garcia,RESEARCHER,dataset
+P006,Recommendation Systems,TOPIC,dataset
+P006,Research Discovery,TOPIC,dataset
+P006,Machine Learning,TOPIC,dataset
+P007,GraphRAG for Scientific Question Answering,PAPER,dataset
+P007,John Smith,RESEARCHER,dataset
+P007,Robert Wilson,RESEARCHER,dataset
+P007,GraphRAG,TOPIC,dataset
+P007,Knowledge Graphs,TOPIC,dataset
+P007,Large Language Models,TOPIC,dataset
+P008,Vector Search for Academic Documents,PAPER,dataset
+P008,Maria Garcia,RESEARCHER,dataset
+P008,David Lee,RESEARCHER,dataset
+P008,Vector Retrieval,TOPIC,dataset
+P008,Embeddings,TOPIC,dataset
+P008,Information Retrieval,TOPIC,dataset
+P008,Vector,DATE,spacy
+P009,AI Based Patent Analysis,PAPER,dataset
+P009,Robert Wilson,RESEARCHER,dataset
+P009,Alice Brown,RESEARCHER,dataset
+P009,Artificial Intelligence,TOPIC,dataset
+P009,Patent Analysis,TOPIC,dataset
+P009,Knowledge Graphs,TOPIC,dataset
+P009,AI Based Patent Analysis,ORG,spacy
+P010,Research Collaboration Networks,PAPER,dataset
+P010,John Smith,RESEARCHER,dataset
+P010,Maria Garcia,RESEARCHER,dataset
+P010,Research Networks,TOPIC,dataset
+P010,Graph Algorithms,TOPIC,dataset
+P010,Recommendation Systems,TOPIC,dataset
